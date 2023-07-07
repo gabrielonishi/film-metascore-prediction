@@ -2,6 +2,9 @@
 
 Este é um projeto de predição de Metascores de filmes usando técnicas de aprendizado de máquina. O Jupyter Notebook fornecido contém o código e a análise completa do projeto. Feito como entrega final para a disciplina Ciência dos Dados, do 2° Semestre da Engenharia do Insper.
 
+## Integrantes
+ - [Gabriel Hideki Stanzani Onishi](https://github.com/gabrielonishi)
+ - [Lucca de Paiva Barroso Saraiva](https://github.com/luccapbsaraiva)
 ## Descrição
 
 O objetivo deste projeto é desenvolver um modelo de aprendizado de máquina capaz de prever o Metascore de um filme com base em diferentes características e dados históricos. O Metascore é uma pontuação numérica que reflete a crítica geral de um filme, variando de 0 a 100. Nesse projeto, previu-se essa nota através de duas técnicas diferentes: regressão linear e árvore de decisão.
